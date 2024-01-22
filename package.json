@@ -1,0 +1,11 @@
+{
+  
+  
+  "scripts": {
+    "start": "json-server --watch server/DataBase.json --port 9000"
+  },
+  
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.21"
+  }
+}
