@@ -2,7 +2,7 @@
   
   
   "scripts": {
-    "start": "json-server --watch server/db.json --port 9000"
+    "start": "json-server --watch db.json --port 9000"
   },
   
   "dependencies": {
